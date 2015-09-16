@@ -16,7 +16,7 @@
 	<div class="service __cg">
 		<div class="service_wrap">
 			<h2 class="service_title">Графика</h2>
-			<a href="" class="service_more">посмотреть</a>
+			<a href="" class="service_more">посмотреть </a>
 		</div>
 	</div>
 </section>
